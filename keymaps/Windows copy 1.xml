@@ -12,6 +12,8 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorJoinLines" />
+  <action id="EditorMatchBrace" />
   <action id="EditorSelectWord" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
