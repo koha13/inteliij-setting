@@ -6,6 +6,9 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
       </map>
     </option>
