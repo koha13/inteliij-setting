@@ -8,7 +8,7 @@
     <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5b196030_cxf-beans.xsd" />
     <resource url="http://cxf.apache.org/schemas/configuration/parameterized-types.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/2b84f58e_parameterized-types.xsd" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/7752ceb7_blueprint.xsd" />
-    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.1/extResources/7752ceb7_blueprint.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/a32f63cf_spring-beans-3.0.xsd" />
     <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/1dc30c50_spring-context-3.1.xsd" />
     <resource url="http://www.springframework.org/schema/osgi-compendium" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/961a5c47_spring-osgi-compendium.xsd" />
