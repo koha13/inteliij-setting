@@ -631,6 +631,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="io.github.xiaopihai7256">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="net.seesharpsoft.intellij.plugins.csv">
           <value>
             <PluginData>
