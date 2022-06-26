@@ -39,6 +39,10 @@
   <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -48,12 +52,52 @@
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="List-selectNextRow">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="NavBar-selectDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NavBar-selectUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="PopupMenu-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="PopupMenu-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="RecentLocations" />
   <action id="SmartSelect" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Table-selectNextRow">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Table-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="TableResult.GrowSelection" />
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Tree-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
