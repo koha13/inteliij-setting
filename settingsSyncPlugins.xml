@@ -232,6 +232,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.cap.plugin.elasticsearch.client">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.copilot">
           <value>
             <PluginData>
