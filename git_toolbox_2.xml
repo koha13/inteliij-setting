@@ -3,6 +3,6 @@
     <option name="autoFetchEnabled" value="false" />
     <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="behindTracker" value="false" />
-    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="6" />
   </component>
 </application>
