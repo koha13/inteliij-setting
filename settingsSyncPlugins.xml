@@ -137,7 +137,6 @@
                   <option value="com.intellij.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
