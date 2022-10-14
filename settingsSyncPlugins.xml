@@ -337,9 +337,7 @@
         </entry>
         <entry key="com.intellij.javaee.web">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.jsp">
@@ -380,9 +378,7 @@
         </entry>
         <entry key="com.intellij.spring.mvc">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.swagger">
