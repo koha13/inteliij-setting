@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
-    <option name="myTabName" value="Local" />
+    <option name="myShellPath" value="C:\Program Files\nu\bin\nu.exe" />
+    <option name="mySoundBell" value="false" />
+    <option name="myTabName" value="Nu_shell" />
   </component>
 </application>
