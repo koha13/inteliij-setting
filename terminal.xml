@@ -2,6 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Program Files\nu\bin\nu.exe" />
     <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="Nu_shell" />
+    <option name="myTabName" value="" />
   </component>
 </application>
