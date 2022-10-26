@@ -6,8 +6,6 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="xjb" type="XML" />
-      <mapping ext="wsdd" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext="gradle.kts" type="Kotlin" />
