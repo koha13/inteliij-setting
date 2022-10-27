@@ -55,7 +55,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -137,7 +136,6 @@
                   <option value="com.intellij.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -145,6 +143,18 @@
           <value>
             <PluginData>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MavenRunHelper">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="org.jetbrains.idea.maven" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -219,6 +229,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="club.nutsoft.Github3Theme">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.android.tools.idea.smali">
           <value>
             <PluginData>
@@ -226,6 +249,18 @@
                 <set>
                   <option value="com.intellij.modules.java-capable" />
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.cap.plugin.elasticsearch.client">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -327,9 +362,7 @@
         </entry>
         <entry key="com.intellij.javaee.web">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.jsp">
@@ -370,9 +403,7 @@
         </entry>
         <entry key="com.intellij.spring.mvc">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.swagger">
@@ -471,6 +502,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.jetbrains.performancePlugin.gradle">
           <value>
             <PluginData>
@@ -515,6 +551,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.mallowigi">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
@@ -536,7 +584,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -640,6 +687,20 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="lermitage.intellij.extra.icons">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
