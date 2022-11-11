@@ -4,10 +4,18 @@
     <property name="created">2022-10-27T11:27:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-11-11T15:14:49</property>
+    <property name="modified">2022-11-11T15:21:40</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono NL" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrainsMonoNL Nerd Font" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
