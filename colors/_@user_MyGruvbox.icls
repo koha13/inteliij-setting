@@ -4,11 +4,11 @@
     <property name="created">2022-10-27T11:27:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-11-11T15:21:40</property>
+    <property name="modified">2022-11-11T15:24:57</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrainsMonoNL Nerd Font" />
+    <option name="EDITOR_FONT_NAME" value="JetBrainsMono Nerd Font" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <console-font>
