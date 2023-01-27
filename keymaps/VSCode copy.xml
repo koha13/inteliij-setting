@@ -1,0 +1,20 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectLine" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Scala.MakeExplicit" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+</keymap>

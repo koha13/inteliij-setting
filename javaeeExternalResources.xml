@@ -1,0 +1,20 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://activemq.apache.org/schema/core" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/extResources/356fee2_activemq-core.xsd" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.1.0" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/3b9e2c0b_v1.1.0.xml" />
+    <resource url="http://camel.apache.org/schema/spring" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/9caa49d4_camel-spring.xsd" />
+    <resource url="http://cxf.apache.org/blueprint/core" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/aeb25f6f_core.xsd" />
+    <resource url="http://cxf.apache.org/blueprint/jaxrs" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/de674e28_jaxrs.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5b196030_cxf-beans.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/parameterized-types.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/2b84f58e_parameterized-types.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.1/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/1dc30c50_spring-context-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/osgi-compendium" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/961a5c47_spring-osgi-compendium.xsd" />
+    <resource url="http://www.springframework.org/schema/osgi/spring-osgi.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/d7853015_spring-osgi.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/2229a0ba_spring-tx-3.1.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-3.1.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/3f98d33_spring-beans-3.1.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-3.1.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5eb52fc5_spring-tool-3.1.xsd" />
+  </component>
+</application>

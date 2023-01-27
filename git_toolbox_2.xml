@@ -1,0 +1,12 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="autoFetchEnabled" value="false" />
+    <option name="autoFetchOnBranchSwitch" value="false" />
+    <option name="behindTracker" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="showStatusWidget" value="false" />
+    <option name="startupNotificationVersion" value="1" />
+    <option name="version" value="6" />
+  </component>
+</application>

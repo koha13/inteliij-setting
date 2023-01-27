@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="cxf" type="AUTO_DETECTED" />
+      <mapping pattern="payment" type="AUTO_DETECTED" />
+      <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="log" approved="true" type="Log" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
