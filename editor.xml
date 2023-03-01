@@ -18,6 +18,20 @@
     </option>
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="Markdown" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
