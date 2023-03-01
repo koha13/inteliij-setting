@@ -55,5 +55,9 @@
   <action id="SmartSelect" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TableResult.GrowSelection" />
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
