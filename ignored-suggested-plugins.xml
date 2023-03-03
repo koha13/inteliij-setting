@@ -6,6 +6,7 @@
         <option value="com.intellij.bigdatatools" />
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.reactivestreams" />
+        <option value="idea.plugin.protoeditor" />
       </list>
     </option>
   </component>
